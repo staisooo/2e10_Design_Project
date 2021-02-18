@@ -1,0 +1,1 @@
+Files that will help accomplish the Bronze challenge for Week 6
